@@ -1,0 +1,5 @@
+The last of my beginning work with graphics, This is a simple recursive color filling algorithm that was used to fill polygons in OpenGL quickly.
+
+The main Point of this project was to get me used to OpenGl's Relative coordinates in a 2d Plane so they would be easier to imagine in 3D space.
+
+It was successful, but a bit boring.
